@@ -1,3 +1,3 @@
 # elaan.github.io
 
-Basic page for identity verification
+Basic page formerly used for identity verification
